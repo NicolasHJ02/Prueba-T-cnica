@@ -4,3 +4,5 @@ Actores del Sistema.
 o	Requerimiento Funcionales RF.
 o	Requerimiento No Funcionales RNF.
 o	Historias de Usuarios.
+
+Hecho por: Juan Nicolas Hernandez Jimenez
